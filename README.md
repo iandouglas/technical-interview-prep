@@ -1,6 +1,13 @@
 # Technical Interview Preparation
 
+"Prepare for your next technical interview by thinking like an interviewer."
+
 A peek into the mind of a technical interviewer.
+
+
+## COPYRIGHT
+
+[Copyright 2017 Ian Douglas](COPYRIGHT.md) All Rights Reserved.
 
 
 ## LICENSE
@@ -12,7 +19,11 @@ full and complete work -- no derivative works can be distributed.
 Finally, no commercial use of this material is allowed by any party
 other than the author.
 
-## About the Author
 
 ## Table of Contents
+
+- [Dedications](DEDICATIONS.md)
+- [About the Author](About-the-Author.md)
+- [Intended Audience](Intended-Audience.md)
+
 
